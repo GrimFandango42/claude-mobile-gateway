@@ -1,3 +1,12 @@
+> **⚠️ ARCHIVED (2026-02-14)**
+> This project has been archived and is no longer actively maintained.
+>
+> **Why:** Superseded by multiple native mobile access paths: Claude mobile app (iOS/Android), WhatsApp via OpenClaw for always-on agent access from any phone, and Discord mobile for channel-based agent interaction. The custom FastAPI gateway is no longer needed when the platform provides three maintained mobile interfaces out of the box.
+>
+> The code remains available for reference. If you find value in any patterns or approaches used here, feel free to fork.
+
+---
+
 # Universal Remote MCP Gateway 🌍
 
 **One-click deployment** for mobile access to ALL your Claude Desktop MCP servers!
